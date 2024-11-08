@@ -10,4 +10,8 @@ foreach ($nums as $num) {
     }
 }
 
+/*
+$minnum=array_reduce($nums,function($carry,$item) {
+    return $item <$carry ?$item :$carry;
+ },$nums[0]);*/
 echo $minnum;
