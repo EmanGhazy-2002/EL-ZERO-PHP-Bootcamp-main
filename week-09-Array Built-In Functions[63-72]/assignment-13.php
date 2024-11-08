@@ -9,5 +9,10 @@ foreach ($nums as $num) {
        $maxnum= $num;
     }
 }
-
 echo $maxnum;
+
+/*
+$maxnum=array_reduce($nums,function($carry,$item) {
+    return $item >$carry ?$item :$carry;
+},$nums[0]);
+echo $maxnum;*/
