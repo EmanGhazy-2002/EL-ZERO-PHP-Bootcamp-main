@@ -12,7 +12,8 @@ This repository is organized by topics, where each topic has a set of assignment
 ### 1. **Introduction**
    - **Assignments**: 4
      
-### 2. **Data Types**
+### 2. **[Data Types](https://elzero.org/category/assignments/php-assignments/#data-types)**
+   - **Assignments**: 8**
    - **Assignments**: 8
      
 ### 3. **Variables and Constants**
