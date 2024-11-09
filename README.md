@@ -6,7 +6,48 @@ Welcome to my repository for the **PHP Bootcamp** by **Elzero Web School**. This
 
 This repository is organized by topics, where each topic has a set of assignments along with the respective lessons and solutions. Each assignment folder contains the solution for the tasks, and you can find the associated lesson details as well.
 
+
 ## Topics and Assignments
+
+### 1. **Introduction**
+   - **Assignments**: 4
+     
+### 2. **Data Types**
+   - **Assignments**: 8
+     
+### 3. **Variables and Constants**
+   - **Assignments**: 6
+     
+### 4. **Operators**
+   - **Assignments**: 8
+
+### 5. **If Condition, Switch**
+   - **Assignments**: 8
+
+### 6. **Loops**
+   - **Assignments**: 10
+
+### 7. **Functions**
+   - **Assignments**: 9
+
+### 8. **String Built-In Functions**
+   - **Assignments**: 7
+
+### 9. **Array Built-In Functions**
+   - **Assignments**: 18
+
+### 10. **Math Functions and Filters**
+   - **Assignments**: 6
+
+### 11. **File System**
+   - **Assignments**: 7
+     
+### 12. **Date & Time**
+   - **Assignments**: 5
+     
+### 13. **Sessions & Cookies**
+   - **Assignments**: 4
+
 
 ## How to Use This Repository
 
